@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RensReus
+- 👀 I’m interested in developing projects that involves solving logic just as much as writing proper code.
+- 🌱 I’m learning dotnet while working and several other frameworks and languages like java/android, javascript, python during hobby projects.
+- 📫 How to reach me: Just send me a github message which should end up in my email.
